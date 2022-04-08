@@ -1,2 +1,2 @@
 # Census API Python Queries
-Python code for querying Census API and adding the results to a pandas DataFrame
+Python code for querying U.S. Census API and adding the results to a pandas DataFrame
